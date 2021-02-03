@@ -30,6 +30,6 @@ function MAIN(){
 		checkGuess
 	done
 }
-MAIN	# init Main()
+MAIN	# init Main() . . .
 ########################################################################
 
